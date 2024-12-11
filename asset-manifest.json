@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3226ab26.css",
+    "main.js": "/static/js/main.7eade709.js",
+    "static/media/Lokesh_Vyavhare_Resume.pdf": "/static/media/Lokesh_Vyavhare_Resume.bba04d662f18bf8402ae.pdf",
+    "static/media/me.jpg": "/static/media/me.e4c7808589bb1f14112c.jpg",
+    "index.html": "/index.html",
+    "main.3226ab26.css.map": "/static/css/main.3226ab26.css.map",
+    "main.7eade709.js.map": "/static/js/main.7eade709.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3226ab26.css",
+    "static/js/main.7eade709.js"
+  ]
+}
